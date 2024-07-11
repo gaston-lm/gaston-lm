@@ -4,5 +4,5 @@ I'm Gaston, a BSc in Digital Technologies student, passionate about technology a
 
 - 🔭 interested in AI, data analytics, and management.
 - 🧑🏻‍💻 he/him
-- 📫 reach me [here](www.linkedin.com/in/gaston-lm)
+- 📫 reach me [here](https://www.linkedin.com/in/gaston-lm/)
 - 🌎 located in Buenos Aires
