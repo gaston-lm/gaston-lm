@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gaston, a BSc in Digital Technologies student, passionate about technology as a tool for solving everyday life problems.
+I'm Gaston, a graduate with a BSc in Digital Technologies, and I am passionate about technology as a tool for solving everyday life problems.
 
 - 🔭 interested in AI, data analytics, and management.
 - 🧑🏻‍💻 he/him
